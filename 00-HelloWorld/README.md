@@ -45,4 +45,4 @@ Se espera que el programa compile correctamente y muestre por pantalla el mensaj
 ## Autor
 * **Usuario GitHub:** acoaquiraticona
 * **Legajo:** 2222292
-* **Apellido y Nombre:** Coaquira Ticona, Alejandro Daniel
+* **Apellido y Nombre:** Coaquira Ticona, Alejandro Daniel.
