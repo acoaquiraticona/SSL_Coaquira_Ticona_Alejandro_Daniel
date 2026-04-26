@@ -7,4 +7,4 @@
 ## Legajo: 2222292
 
 
-## Apellido y nombre: Coaquira Ticona, Alejandro Daniel
+## Apellido y nombre: Coaquira Ticona, Alejandro Daniel.
